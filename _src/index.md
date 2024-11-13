@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 ---
-# This is my 11ty site. 
+# Samantha Alaksa's Mini Portfolio  
 
 This is a paragraph, duhhh
 
