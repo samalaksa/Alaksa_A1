@@ -1,7 +1,8 @@
 ---
 layout: layout.njk
 ---
-# Samantha Alaksa's Mini Portfolio  
+# Samantha Alaksa's 
+# Mini Portfolio 
 
 This is a paragraph, duhhh
 
