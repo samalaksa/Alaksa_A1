@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: Web Design
+pageClass: web
 ---
 # Web Design
 
