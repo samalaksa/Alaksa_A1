@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
+title: Web Design
 ---
-# Motion Design 
+# Web Design
 
 Check out the designs i've created 

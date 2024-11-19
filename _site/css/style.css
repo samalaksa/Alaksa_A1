@@ -1,9 +1,22 @@
 body {
   margin: 0;
-  padding: 5vw 20vw;
   background-color: black;
   color: white;
   font-family: "Courier New", Courier, monospace;
+}
+
+.hero {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../img/main-bg.jpeg");
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+.hero h1 {
+  font-size: 4rem;
 }
 
 /*# sourceMappingURL=style.css.map */

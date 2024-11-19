@@ -1,5 +1,6 @@
 ---
 layout: layout.njk
+title: Samantha Alaksa's Portfolio
 ---
 # Samantha Alaksa's 
 # Mini Portfolio 
