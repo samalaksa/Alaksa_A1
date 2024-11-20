@@ -6,6 +6,9 @@ body {
   font-weight: 400;
   font-style: normal;
 }
+body h3 {
+  font-size: 2rem;
+}
 
 .navbar {
   background: #000000;
@@ -42,7 +45,8 @@ body {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 3rem;
+  color: #B8679D;
 }
 
 .wrapper {
@@ -51,6 +55,36 @@ h1 {
 
 .home {
   background-color: white;
+}
+.home p {
+  font-size: 1.5rem;
+}
+
+.card-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.card {
+  margin-left: 7vw;
+  width: 75%;
+  background-color: #caa5be;
+  color: #000000;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+}
+.card h4 {
+  font-size: 2.5rem;
+  padding-bottom: 4vw;
+  font-family: "Kalnia", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+.card .card-img img {
+  width: 100%;
 }
 
 /*# sourceMappingURL=style.css.map */
