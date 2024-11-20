@@ -44,24 +44,20 @@ body h3 {
   color: white;
 }
 
-.main-container {
+.home .main-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 20px;
   padding-bottom: 3vw;
 }
-
-.text-content {
+.home .text-content {
   flex: 1;
 }
-
-.main-me {
+.home .main-me {
   width: 300px;
   height: auto;
   border-radius: 10px;
   flex-shrink: 0;
-  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
 }
 
 h1 {
@@ -152,6 +148,8 @@ h5 {
   gap: 30px;
 }
 .web .web-column img {
+  width: 100%;
+  height: auto;
   border-radius: 8px;
   box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
 }
