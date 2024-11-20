@@ -141,6 +141,7 @@ h5 {
 }
 
 .web {
+    background-color: white;
     .web-container {
         display: flex;
         justify-content: center;
@@ -150,10 +151,11 @@ h5 {
       .web-column {
         display: flex;
         flex-direction: column;
-        gap: 10px; 
+        gap: 30px; 
       }
       
       .web-column img { 
         border-radius: 8px;
+        box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3); 
       }
 }

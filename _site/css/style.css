@@ -138,6 +138,9 @@ h5 {
   border-radius: 4px;
 }
 
+.web {
+  background-color: white;
+}
 .web .web-container {
   display: flex;
   justify-content: center;
@@ -146,10 +149,11 @@ h5 {
 .web .web-column {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 30px;
 }
 .web .web-column img {
   border-radius: 8px;
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
 }
 
 /*# sourceMappingURL=style.css.map */
