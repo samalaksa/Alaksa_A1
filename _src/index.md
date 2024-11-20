@@ -11,7 +11,7 @@ pageClass: home
 
 # **ABOUT ME**
 
-  </div>
+</div>
     <img class="main-me" src="../img/main-me.jpeg" alt="five different cameras throughout the years">
 </div>
 

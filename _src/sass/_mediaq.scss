@@ -1,0 +1,16 @@
+@media screen and (max-width: 600px) {
+    body {
+         padding: 5vw;
+    }
+}
+@media screen and (max-width: 1120px) {
+    body {
+      padding: 8vw;
+    }
+    .main-container {
+      flex-direction: column;
+    }
+    .card-text {
+        font-size: 0.5rem;
+    }
+  }
