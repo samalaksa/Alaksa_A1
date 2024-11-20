@@ -3,10 +3,18 @@ layout: layout.njk
 title: Samantha Alaksa's Portfolio
 pageClass: home
 ---
-# Multimedia Designer
+<div class="main-container">
+  <div class="text-content">
+
+# Multimedia Designer 
 ## Based in Ontario, Canada
 
 # **ABOUT ME**
+
+  </div>
+    <img class="main-me" src="../img/main-me.jpeg" alt="five different cameras throughout the years">
+</div>
+
 
 I'm Samantha Alaksa, a 19-year-old Interactive Media Development student at Confederation College.
 

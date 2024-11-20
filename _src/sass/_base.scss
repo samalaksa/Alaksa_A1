@@ -9,6 +9,7 @@ body {
             font-size: 2rem;
         }
 }
+
 .navbar {
     background: #000000;
     font-size: 1.5rem;
@@ -30,6 +31,7 @@ body {
             }
         }
     }
+
 .hero {
     height: 50vh;
     display: flex;
@@ -41,6 +43,27 @@ body {
     background-repeat: no-repeat;
     color: white;
 }
+
+.main-container {
+    display: flex;                 
+    justify-content: space-between;  
+    align-items: center;           
+    gap: 20px;
+    padding-bottom: 3vw;     
+  }
+  
+  .text-content {
+    flex: 1;                       
+  }
+
+  .main-me {
+    width: 300px;                    
+    height: auto;  
+    border-radius: 10px; 
+    flex-shrink: 0;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);         
+  }
+  
 h1 {
     font-size: 3rem;
     color: #B8679D;
@@ -83,11 +106,54 @@ h1 {
         }
     }
 }
-
-.web {
-
+h5 {
+    font-size: 3rem;
+    color: #B8679D;
+    font-family: "Kalnia", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+    text-align: center;
+}
+.photography {
+    .photo-01, .photo-02, .photo-03, .photo-04, .photo-05, .photo-06, .photo-07, .photo-08, .photo-09, .photo-10 {
+        width: 50%;
+    }
+    .container {
+        display: flex;
+        justify-content: space-between;
+        gap: 10px;
+        padding: 20px;
+      }
+      
+      .column {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+      }
+      
+      .column img {
+        width: 100%;
+        height: auto;
+        border-radius: 4px;
+      }
 }
 
-.photography {
-    
+.web {
+    .web-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .web-column {
+        display: flex;
+        flex-direction: column;
+        gap: 10px; 
+      }
+      
+      .web-column img { 
+        border-radius: 8px;
+      }
 }
