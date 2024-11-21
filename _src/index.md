@@ -28,7 +28,7 @@ Born and raised in Thunder Bay, Ontario, my upbringing in the country has shaped
 
 #### PHOTOGRAPHY
 
-    </div>
+</div>
 </div>
 
 <a href="../web" class="card-link">
@@ -39,6 +39,6 @@ Born and raised in Thunder Bay, Ontario, my upbringing in the country has shaped
 
 #### WEB DESIGN
 
-    </div>
+</div>
 </div>
 

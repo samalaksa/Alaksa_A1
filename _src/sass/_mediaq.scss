@@ -1,16 +1,14 @@
 @media screen and (max-width: 600px) {
-    body {
-         padding: 5vw;
-    }
+  .card .card-text h4 {
+    font-size: 1.7rem;
 }
-@media screen and (max-width: 1120px) {
-    body {
-      padding: 8vw;
-    }
-    .main-container {
-      flex-direction: column;
-    }
-    .card-text {
-        font-size: 0.5rem;
-    }
+.hero h3 {
+  font-size: 2rem;
+}
   }
+
+    @media screen and (max-width: 1120px) {
+        .main-container {
+          flex-direction: column;
+        }
+        }
