@@ -12,7 +12,9 @@ pageClass: home
 # **ABOUT ME**
 
 </div>
-    <img class="main-me" src="../img/main-me.jpeg" alt="five different cameras throughout the years">
+    <div class="wobble-hor-top">
+        <img class="main-me" src="../img/main-me.jpeg" alt="five different cameras throughout the years">
+    </div>
 </div>
 
 
