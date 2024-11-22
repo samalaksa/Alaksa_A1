@@ -47,7 +47,12 @@ body {
     background-repeat: no-repeat;
     color: white;
 }
+//home 
 .home {
+    background-color: white;
+    p {
+        font-size: 1.5rem;
+    }
     .main-container {
         display: flex;                 
         justify-content: space-between;  
@@ -73,12 +78,7 @@ h1 {
     padding: 4vw 20vw 6vw;
 }
 
-.home {
-    background-color: white;
-    p {
-        font-size: 1.5rem;
-    }
-}
+//cards
 .card-link {
     text-decoration: none;
     color: inherit;
@@ -106,6 +106,7 @@ h1 {
         }
     }
 }
+
 h5 {
     font-size: 3rem;
     color: #B8679D;
@@ -116,9 +117,10 @@ h5 {
     font-variation-settings: "wdth" 100;
     text-align: center;
 }
+//photography page
 .photography {
-    .photo-01, .photo-02, .photo-03, .photo-04, .photo-05, .photo-06, .photo-07, .photo-08, .photo-09, .photo-10 {
-        width: 50%;
+    .photo-01, .photo-02, .photo-03, .photo-04, .photo-05, .photo-06, .photo-07, .photo-08, .photo-09, .photo-10, .photo-11 {
+        width: 40%;
     }
     .container {
         display: flex;
@@ -140,6 +142,7 @@ h5 {
       }
 }
 
+//web page
 .web {
     background-color: white;
     .web-container {
@@ -162,6 +165,7 @@ h5 {
       }
 }
 
+//animation
 //classes
 .wobble-hor-top:hover {
 	-webkit-animation: wobble-hor-top 0.8s both;

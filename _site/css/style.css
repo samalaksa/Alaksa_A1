@@ -48,6 +48,12 @@ body h3 {
   color: white;
 }
 
+.home {
+  background-color: white;
+}
+.home p {
+  font-size: 1.5rem;
+}
 .home .main-container {
   display: flex;
   justify-content: space-between;
@@ -71,13 +77,6 @@ h1 {
 
 .wrapper {
   padding: 4vw 20vw 6vw;
-}
-
-.home {
-  background-color: white;
-}
-.home p {
-  font-size: 1.5rem;
 }
 
 .card-link {
@@ -118,8 +117,8 @@ h5 {
   text-align: center;
 }
 
-.photography .photo-01, .photography .photo-02, .photography .photo-03, .photography .photo-04, .photography .photo-05, .photography .photo-06, .photography .photo-07, .photography .photo-08, .photography .photo-09, .photography .photo-10 {
-  width: 50%;
+.photography .photo-01, .photography .photo-02, .photography .photo-03, .photography .photo-04, .photography .photo-05, .photography .photo-06, .photography .photo-07, .photography .photo-08, .photography .photo-09, .photography .photo-10, .photography .photo-11 {
+  width: 40%;
 }
 .photography .container {
   display: flex;
